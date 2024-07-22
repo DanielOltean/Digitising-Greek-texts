@@ -1,0 +1,319 @@
+ID_Entity,Label_GR,Label_ENG,TYPE,Subtype,Wikidata,Wiki_URI,VIAF,VIAF_URI,TM,TM_URI,PmbZ,PmbZ_URI,Pleiades,Pleiades_URI,GeoNames,GeoNames_URI,LAT,LNG
+1,Ἀλβέριχος,"Adalbert, King of Italy, 950-961",PERSON,king,Q347480,https://www.wikidata.org/wiki/Q347480,166159474191027661919,https://viaf.org/viaf/166159474191027661919/,,,20223,https://www.degruyter.com/database/PMBZ/entry/PMBZ22376/html,,,,,,
+2,Ἀγαπητός,"Agapetus II, Pope, 946-955",PERSON,pope,Q103389,https://www.wikidata.org/wiki/Q103389,311313754,https://viaf.org/viaf/311313754/,,,20159,https://www.degruyter.com/database/PMBZ/entry/PMBZ22312/html,,,,,,
+3,Ὠκεανός,Atlantic Ocean,PLACE,ocean,Q97,https://www.wikidata.org/wiki/Q97,58145602536301361817,https://viaf.org/viaf/58145602536301361817/,,,,,845,https://pleiades.stoa.org/places/845,3373405,https://www.geonames.org/3373405,-19.665682,31.937048
+4,Βερόη,Bay of Cadiz,PLACE,bay,Q662059,https://www.wikidata.org/wiki/Q662059,341145424530286830060,https://viaf.org/viaf/341145424530286830060/,,,,,,,2565261,https://www.geonames.org/2565261,,
+5,Γάδειρα,Gadeira/Cadiz,PLACE,city,Q5890310,https://www.wikidata.org/wiki/Q5890310,133675177,https://viaf.org/viaf/133675177/,TM Geo 13580,https://www.trismegistos.org/place/13580,,,256177,http://pleiades.stoa.org/places/256177,2520600,https://www.geonames.org/2520600,36.528381,-6.294444
+6,Χριστόδουλος,"Christodoulos I, Patriarch of Jerusalem, 937-951",PERSON,patriarch,Q61721803,https://www.wikidata.org/wiki/Q61721803,,,,,21244,https://www.degruyter.com/database/PMBZ/entry/PMBZ23397/html,,,,,,
+7,Κωνσταντῖνος,"Constantine VII, Byzantine Emperor, 913-959",PERSON,emperor,Q41608,https://www.wikidata.org/wiki/Q41608,13108540,http://viaf.org/viaf/13108540,,,23734,https://www.degruyter.com/database/PMBZ/entry/PMBZ25888/html,,,,,,
+8,βασιλεύουσα,Constantinople,PLACE,city,Q16869,https://www.wikidata.org/wiki/Q16869,122641741,https://viaf.org/viaf/122641741/,TM Geo 478,https://www.trismegistos.org/place/478,,,520998,http://pleiades.stoa.org/places/520998,745044,https://www.geonames.org/745044,41.012379,28.975926
+9,Δουναλέ,Dounale,PERSON,saint,,,,,,,21610,https://www.degruyter.com/database/PMBZ/entry/PMBZ23763/html,,,,,,
+10,Αἴγυπτος,Egypt,PLACE,country,Q79,https://www.wikidata.org/wiki/Q79,130890862,https://viaf.org/viaf/130890862/,TM Geo 49,https://www.trismegistos.org/place/49,,,981503,https://pleiades.stoa.org/places/981503,357994,https://www.geonames.org/357994,26.4902014068366,29.88079616977313
+11,Νιβερτίς,Huelva,PLACE,city,Q12246,https://www.wikidata.org/wiki/Q12246,146580089,https://viaf.org/viaf/146580089/,TM Geo 26120,https://www.trismegistos.org/place/26120,,,256346,http://pleiades.stoa.org/places/256346,6358217,https://www.geonames.org/6358217,37.257074,-6.949713
+12,Ἱεροσόλυμα,Jerusalem,PLACE,city,Q1218,https://www.wikidata.org/wiki/Q1218,131280745,https://viaf.org/viaf/131280745/,TM Geo 853,https://www.trismegistos.org/place/853,,,687928,http://pleiades.stoa.org/places/687928,281184,https://www.geonames.org/281184,31.776667,35.234167
+14,Ἰώβ,Job,PERSON,biblical man,Q179962,https://www.wikidata.org/wiki/Q179962,46762859,https://viaf.org/viaf/46762859/,,,,,,,,,,
+15,Ἰωσήφ,Joseph,PERSON,biblical man,Q128267,https://www.wikidata.org/wiki/Q128267,147328714,https://viaf.org/viaf/147328714/,,,,,,,,,,
+18,Παῦλος,Paul,PERSON,apostle,Q9200,https://www.wikidata.org/wiki/Q9200,100178828,https://viaf.org/viaf/100178828/,,,,,,,,,,
+19,Πέτρος,Peter,PERSON,apostle,Q33923,https://www.wikidata.org/wiki/Q33923,13581141,https://viaf.org/viaf/13581141/,,,,,,,,,,
+21,Ῥωμανός,"Romanos II, Byzantine emperor, 959-963",PERSON,emperor,Q41847,https://www.wikidata.org/wiki/Q41847,6521159880871718540002,https://viaf.org/viaf/6521159880871718540002/,,,26834,https://www.degruyter.com/database/PMBZ/entry/PMBZ28988/html,,,,,,
+22,Ῥώμη,Rome,PLACE,city,Q220,https://www.wikidata.org/wiki/Q220,251380480,https://viaf.org/viaf/251380480/,TM Geo 2058,https://www.trismegistos.org/place/2058,,,423025,http://pleiades.stoa.org/places/423025,3169070,https://www.geonames.org/3169070,41.89262,12.4843457
+23,νῆσος,Saltes Island,PLACE,island,Q4119050,https://www.wikidata.org/wiki/Q4119050,315163713,https://viaf.org/viaf/315163713/,TM Geo 61142,https://www.trismegistos.org/place/61142,,,256201,http://pleiades.stoa.org/places/256201,2511493,https://www.geonames.org/2511493,37.18916,-6.94522
+24,Στέφανος,Stephen,PERSON,saint,,,,,,,21610,https://www.degruyter.com/database/PMBZ/entry/PMBZ23763/html,,,,,,
+13,Ταβαρία,Tiberias,PLACE,city,Q151920,https://www.wikidata.org/wiki/Q151920,141911949 ,https://viaf.org/viaf/141911949/,TM Geo 16863,https://www.trismegistos.org/place/16863,,,678431,http://pleiades.stoa.org/places/678431,293322,https://www.geonames.org/293322,32.785741,35.541973
+25,‌ἔφθασε ‌δὲ ‌καὶ ‌ἕως ‌τῆς ‌εὐσεβοῦς ‌βασιλείας ‌Ῥωμανοῦ ‌καὶ ‌Κωνσταντίνου ‌τῶν ‌πορφυρογεννήτων ‌καὶ ‌χριστιανικωτάτων ‌βασιλέων,"955 (ca.), Reign of emperors Constantin VII and Romanos II",TIME,time,,,,,,,,,,,,,,
+16,καταλαμβάνει ‌τὰ Ἱεροσόλυμα,Travel of Dounale-Stephen from Constantinople to Jerusalem,EVENT,travel,,,,,,,,,,,,,,
+17,ἐν ‌τῇ Ῥώμῃ ‌ἔρχεται,Travel of Dounale-Stephen from Huelva to Rome,EVENT,travel,,,,,,,,,,,,,,
+20,πρὸς ‌τὴν ‌βασιλεύουσαν ‌τῶν ‌πόλεων ‌ἔρχεται,Travel of Dounale-Stephen from Rome to Constantinople,EVENT,travel,,,,,,,,,,,,,,
+26,παραχειμάσαντος,531,TIME,time,,,,,,,,,,,,,,
+27,ἦν γὰρ ὡς ἐτῶν εἴκοσι καὶ πέντε,786 (ca.),TIME,time,,,,,,,,,,,,,,
+28,πεντηκοστῷ,811 (ca.),TIME,time,,,,,,,,,,,,,,
+29,μηνὶ μαΐῳ ὑνδ. ζ',814 (ca.),TIME,time,,,,,,,,,,,,,,
+30,ἓξ δὲ χρόνων διιππευσάντων,820,TIME,time,,,,,,,,,,,,,,
+31,τῷ πέμπτῳ ἔτει,834,TIME,time,,,,,,,,,,,,,,
+32,"ἰουλίῳ μηνὶ ὀγδόῃ, ὑνδικτιῶνος τεσσαρεσκαιδεκάτης",836,TIME,time,,,,,,,,,,,,,,
+33,καὶ δὴ τούτου γενομένο,843,TIME,time,,,,,,,,,,,,,,
+34,τῇ ἐνδεκάτῃ τοῦ ὀκτωβρίου μηνὸς τῆς ἐνάτης ὑνδικτιῶνος,845,TIME,time,,,,,,,,,,,,,,
+35,Ἄβγαρος,"Abgar V, King of Osroene, c. AD 50",PERSON,king,Q320168,https://www.wikidata.org/wiki/Q320168,45659357,https://viaf.org/viaf/45659357/,TM Author 3,https://www.trismegistos.org/author/3,,,,,,,,
+36,Ἀδάμ,Adam,PERSON,biblical man,Q70899,https://www.wikidata.org/wiki/Q70899,308180317,https://viaf.org/viaf/308180317/,,,,,,,,,,
+37,Ἄννη,Anna,PERSON,sister of Constantin V,,,,,,,443,https://www.degruyter.com/database/PMBZ/entry/PMBZ11528/html,,,,,,
+38,Ἄννη,"Anna, mother of Samuel",PERSON,biblical woman,Q2346367,https://www.wikidata.org/wiki/Q2346367,25404650,https://viaf.org/viaf/25404650/,,,,,,,,,,
+39,Ἄνθιμος,"Anthimos, Bishop of Nicomedia",PERSON,saint,Q2177088,https://www.wikidata.org/wiki/Q2177088,,,,,,,,,,,,
+40,Ἀντίοχος,"Antiochos IV, Seleucid King, 175-164 BC",PERSON,king,Q3356,https://www.wikidata.org/wiki/Q3356,266449306,https://viaf.org/viaf/266449306/,,,,,,,,,,
+41,Ἀφουσία,Aphousia Island,PLACE,island,Q791572,https://www.wikidata.org/wiki/Q791572,,,TM Geo 56106,https://www.trismegistos.org/place/56106,,,511345,https://pleiades.stoa.org/places/511345,738613,https://www.geonames.org/738613,40.50667,27.51139
+42,Ἀπόλλων,Apollo,PERSON,god,Q37340,https://www.wikidata.org/wiki/Q37340,3261638,https://viaf.org/viaf/3261638/,,,,,,,,,,
+43,Ἄρειος,Arius,PERSON,presbyter,Q106026,https://www.wikidata.org/wiki/Q106026,12404999,https://viaf.org/viaf/12404999/,,,,,,,,,,
+44,Ἀρτάβασδος,Artabasdos,PERSON,brother-in-law of Constantin V,,,,,,,632,https://www.degruyter.com/database/PMBZ/entry/PMBZ11720/html,,,,,,
+45,Ἄρτεμις,Artemis,PERSON,god,Q39503,https://www.wikidata.org/wiki/Q39503,94964164,https://viaf.org/viaf/94964164/,,,,,,,,,,
+46,Βάβυλας,"Babylas, Bishop of Antioch",PERSON,saint,Q797915,https://www.wikidata.org/wiki/Q797915,60253739,https://viaf.org/viaf/60253739/,,,,,,,,,,
+47,Βαβυλών,Babylon,PLACE,city,Q5684,https://www.wikidata.org/wiki/Q5684,146198874 ,https://viaf.org/viaf/146198874/,TM Geo 390,https://www.trismegistos.org/place/390,,,893951,https://pleiades.stoa.org/places/893951,98228,https://www.geonames.org/98228,32.53729695,44.42497815
+48,Προῦσα,Broussa,PLACE,city,Q40738,https://www.wikidata.org/wiki/Q40738,123562716,https://viaf.org/viaf/123562716/,TM Geo 1925,https://www.trismegistos.org/place/1925,,,511384,https://pleiades.stoa.org/places/511384,750269,https://www.geonames.org/750269,40.1828985,29.0638185
+49,Χριστόδουλος,Christodoulos,PERSON,servant,,,,,,,1080,https://www.degruyter.com/database/PMBZ/entry/PMBZ12172/html,,,,,,
+50,Ἀγία Σιών,"Church of Sion, Jerusalem",PLACE,church,,,,,,,,,,,,,31.4618,35.1343
+51,Ἀνάσταση,"Church of the Anastasis, Jerusalem",PLACE,church,Q187702,https://www.wikidata.org/wiki/Q187702,138366331,https://viaf.org/viaf/138366331/,,,,,,,8335062,https://www.geonames.org/8335062,31.77847,35.22979
+52,Κωνσταντῖνος,"Constantine I, Roman Emperor, 306-337",PERSON,emperor,Q8413,https://www.wikidata.org/wiki/Q8413,97746098,https://viaf.org/viaf/97746098/,,,,,,,,,,
+53,Κωνσταντῖνος,"Constantine V, Byzantine Emperor, 741-775",PERSON,emperor,Q41635,https://www.wikidata.org/wiki/Q41635,298155661,https://viaf.org/viaf/298155661/,,,3703,https://www.degruyter.com/database/PMBZ/entry/PMBZ14852/html,,,,,,
+54,Κωνσταντῖνος,"Constantine VI, Byzantine Emperor, 780-797",PERSON,emperor,Q41661,https://www.wikidata.org/wiki/Q41661,27863342,https://viaf.org/viaf/27863342/,,,3704,https://www.degruyter.com/database/PMBZ/entry/PMBZ14853/html,,,,,,
+55,Δανιήλ,Daniel,PERSON,prophet,Q171724,https://www.wikidata.org/wiki/Q171724,79399026,https://viaf.org/viaf/79399026/,,,,,,,,,,
+56,Δαυίδ,David,PERSON,prophet,Q41370,https://www.wikidata.org/wiki/Q41370,28348953,https://viaf.org/viaf/28348953/,,,,,,,,,,
+57,Διόσπολις,Diospolis,PLACE,city,Q207540,https://www.wikidata.org/wiki/Q207540,134931489,https://viaf.org/viaf/134931489/,TM Geo 12438,https://www.trismegistos.org/place/12438,,,687953,https://pleiades.stoa.org/places/687953,294421,https://www.geonames.org/294421,31.9582535,34.892378
+58,Ἔδεσσα,Edessa,PLACE,city,Q133118,https://www.wikidata.org/wiki/Q133118,133797710,https://viaf.org/viaf/133797710/,TM Geo 11275,https://www.trismegistos.org/place/11275,,,658457,https://pleiades.stoa.org/places/658457,298333,https://www.geonames.org/298333,37.1625575,38.781432
+59,Ἐλεάζαρ,Eleazar,PERSON,biblical man,Q2915974,https://www.wikidata.org/wiki/Q2915974,,,,,,,,,,,,
+60,Ἐλεσβοάς,"Elesboas, Aksumite King, 514-542",PERSON,king,Q705378,https://www.wikidata.org/wiki/Q705378,,,,,,,,,,,,
+61,Ἠλίας,"Elias I, Patriarch of Jerusalem, 494-516",PERSON,patriarch,Q3298649,https://www.wikidata.org/wiki/Q3298649,27456663,https://viaf.org/viaf/27456663/,,,,,,,,,,
+62,Εὐφροσύνη,Euphrosyne,PERSON,nun,,,,,,,1708,https://www.degruyter.com/database/PMBZ/entry/PMBZ12812/html,,,,,,
+63,Εὐστράτιος,Eustratios,PERSON,saint,Q19999551,https://www.wikidata.org/wiki/Q19999551,,,,,,,,,,,,
+64,Ἰεζεκιήλ,Ezechiel,PERSON,prophet,Q194064,https://www.wikidata.org/wiki/Q194064,149799338,https://viaf.org/viaf/149799338/,,,,,,,,,,
+65,Γερμανός,"Germanos, Patriarch of Constantinople, 715-730",PERSON,patriarch,Q441464,https://www.wikidata.org/wiki/Q441464,79050339,https://viaf.org/viaf/79050339/,TM Author 2427,https://www.trismegistos.org/author/2427,2298,https://www.degruyter.com/database/PMBZ/entry/PMBZ13412/html,,,,,,
+66,Ἄγαρ,Hagar,PERSON,biblical woman,Q214617,https://www.wikidata.org/wiki/Q214617,16377729,https://viaf.org/viaf/16377729/,,,,,,,,,,
+67,Ἰγνάτιος,"Ignatios, Bishop of Antioch",PERSON,saint,Q44170,https://www.wikidata.org/wiki/Q44170,267432724,https://viaf.org/viaf/267432724/,TM Author 412,https://www.trismegistos.org/author/412,,,,,,,,
+68,Ἰωαννίκιος,Ioannikios,PERSON,saint,,,,,,,3389,https://www.degruyter.com/database/PMBZ/entry/PMBZ14532/html,,,,,,
+69,Εὑρήνη,"Irene, Byzantine Empress, 780-802",PERSON,empress,Q206737,https://www.wikidata.org/wiki/Q206737,77237243,https://viaf.org/viaf/77237243/,,,1439,https://www.degruyter.com/database/PMBZ/entry/PMBZ12537/html,,,,,,
+70,Ἠσαΐας,Isaiah,PERSON,prophet,Q188794,https://www.wikidata.org/wiki/Q188794,143011742,https://viaf.org/viaf/143011742/,,,,,,,,,,
+71,Ἰερεμίας,Jeremiah,PERSON,prophet,Q158825,https://www.wikidata.org/wiki/Q158825,69721584,https://viaf.org/viaf/69721584/,,,,,,,,,,
+72,Ἰωάννης,"John VII the Grammarian, Patriarch of Constantinople, 837-843",PERSON,patriarch,Q956579,https://www.wikidata.org/wiki/Q956579,29887116,https://viaf.org/viaf/29887116/,,,3199,https://www.degruyter.com/database/PMBZ/entry/PMBZ14338/html,,,,,,
+73,Ἰουστινιανός,"Justinian I, Byzantine Emperor, 527-565",PERSON,emperor,Q41866,https://www.wikidata.org/wiki/Q41866,88881722,https://viaf.org/viaf/88881722/,TM Author 466,https://www.trismegistos.org/author/466,,,,,,,,
+74,Καλλωνᾶς,Kallonas,PERSON,spatharios,,,,,,,3611,https://www.degruyter.com/database/PMBZ/entry/PMBZ14758/html,,,,,,
+75,Λέων,"Leo V, Byzantine Emperor, 813-820",PERSON,emperor,Q41641,https://www.wikidata.org/wiki/Q41641,365727,https://viaf.org/viaf/365727/,,,4244,https://www.degruyter.com/database/PMBZ/entry/PMBZ15402/html,,,,,,
+76,Λουκάς,Luke,PERSON,apostle,Q128538,https://www.wikidata.org/wiki/Q128538,305863610,https://viaf.org/viaf/305863610/,,,,,,,,,,
+77,Λύδδα,Lydda,PLACE,city,Q207540,https://www.wikidata.org/wiki/Q207540,134931489,https://viaf.org/viaf/134931489/,TM Geo 12438,https://www.trismegistos.org/place/12438,,,687953,https://pleiades.stoa.org/places/687953,294421,https://www.geonames.org/294421,31.9582535,34.892378
+78,Μακεδόνιος,"Macedonius I, Patriarh of Constantinople, 342-346; 351-360",PERSON,patriarch,Q1263119,https://www.wikidata.org/wiki/Q1263119,,,,,,,,,,,,
+79,Μεθόδιος,"Methodios, Patriarch of Constantinople, 843-847",PERSON,patriarch,Q1256661,https://www.wikidata.org/wiki/Q1256661,42197025,https://viaf.org/viaf/42197025/,,,4977,https://www.degruyter.com/database/PMBZ/entry/PMBZ16154/html,,,,,,
+80,Μιχαήλ,"Michael II, Byzantine Emperor, 820-829",PERSON,emperor,Q41640,https://www.wikidata.org/wiki/Q41640,89203027,https://viaf.org/viaf/89203027/,,,4990,https://www.degruyter.com/database/PMBZ/entry/PMBZ16167/html,,,,,,
+81,Μιχαήλ,"Michael III, Byzantine Emperor, 842-867",PERSON,emperor,Q41622,https://www.wikidata.org/wiki/Q41622,55973317,https://viaf.org/viaf/55973317/,,,4991,https://www.degruyter.com/database/PMBZ/entry/PMBZ16168/html,,,,,,
+82,Μιχαήλ,Michael Synkellos,PERSON,saint,Q2363253,https://www.wikidata.org/wiki/Q2363253,79408396,https://viaf.org/viaf/79408396/,,,5059,https://www.degruyter.com/database/PMBZ/entry/PMBZ16236/html,,,,,,
+83,καταλαβόντος,Michael Synkellos and Job from Broussa to Constantinople,EVENT,travel,,,,,,,,,,,,,,
+84,καταλαμβάνει,Michael Synkellos from Jerusalem to St. Sabas,EVENT,travel,,,,,,,,,,,,,,
+85,μεταστήσας,"Michael Synkellos, Theodore and Theophanes  from St. Sabas to Jerusalem",EVENT,travel,,,,,,,,,,,,,,
+86,ἐξῆλθε,"Michael Synkellos, Theodore, Theophanes, and Job from Jerusalem to Seleucia Trachea",EVENT,travel,,,,,,,,,,,,,,
+87,εὑσῆλθεν,"Michael Synkellos, Theodore, Theophanes, and Job from Seleucia Trachea to Constantinople",EVENT,travel,,,,,,,,,,,,,,
+88,παραπεμφθῆναι,Michael the Synkellos and Job from Constantinople to Broussa,EVENT,travel,,,,,,,,,,,,,,
+89,Μονή τῶν Ἀγαύρων,"Monastery of Agauroi, Bithynia",PLACE,monastery,,,,,,,,,,,,,40.1828985,29.0638185
+90,Μονή τῆς Χώρας,"Monastery of Chora, Constantinople",PLACE,monastery,Q849489,https://www.wikidata.org/wiki/Q849489,133238682,https://viaf.org/viaf/133238682/,,,,,,,6947651,https://www.geonames.org/6947651,41.0311,28.9392
+91,Μονή τῶν Ἐλεοβωμητῶν,"Monastery of Heliou Bomon/Elegmoi, Bithynia",PLACE,monastery,,,,,,,,,,,,,40.1828985,29.0638185
+92,Μονή τοῦ ἁγίου προφήτου Ἠλίου,"Monastery of St. Elias, Bithynia",PLACE,monastery,,,,,,,,,,,,,40.1828985,29.0638185
+93,Λαύρα τοῦ ἁγίου Σάβα,"Monastery of St. Sabas, Palestine",PLACE,monastery,Q1059946,https://www.wikidata.org/wiki/Q1059946,254927044,https://viaf.org/viaf/254927044/,TM Geo 11724,https://www.trismegistos.org/place/11724,,,687969,https://pleiades.stoa.org/places/687969,282852,https://www.geonames.org/282852,31.7049404,35.3311461
+94,Μονή τῶν Σπουδαίων,"Monastery of the Spoudaei, Jerusalem",PLACE,monastery,,,,,,,,,,,,,31.77847,35.22979
+95,Μωσῆς,Moses,PERSON,biblical man,Q9077,https://www.wikidata.org/wiki/Q9077,805492,https://viaf.org/viaf/805492/,,,,,,,,,,
+96,Κάρμηλος,Mount Carmel,PLACE,mountain,Q185318,https://www.wikidata.org/wiki/Q185318,155110210,https://viaf.org/viaf/155110210/,TM Geo 37339,https://www.trismegistos.org/place/37339,,,678084,https://pleiades.stoa.org/places/678084,294579,https://www.geonames.org/294579,32.7286111,35.0466669
+97,Χωρήβ,Mount Horeb,PLACE,mountain,Q1420926,https://www.wikidata.org/wiki/Q1420926,250144783087552772055,https://viaf.org/viaf/250144783087552772055/,TM Geo 50885,https://www.trismegistos.org/place/50885,,,746815,https://pleiades.stoa.org/places/746815,351820,https://www.geonames.org/351820,28.58771,33.921682
+98,Λίβανος,Mount Lebanon,PLACE,mountain,Q333711,https://www.wikidata.org/wiki/Q333711,143144035,https://viaf.org/viaf/143144035/,TM Geo 11620,https://www.trismegistos.org/place/11620,,,678267,https://pleiades.stoa.org/places/678267,9062341,https://www.geonames.org/9062341,34.29899,36.10584
+99,Ὄλυμπος,"Mount Olympos, Bithynia",PLACE,mountain,Q925688,https://www.wikidata.org/wiki/Q925688,244299871,https://viaf.org/viaf/244299871/,TM Geo 45051,https://www.trismegistos.org/place/45051,,,511343,https://pleiades.stoa.org/places/511343,738426,https://www.geonames.org/738426,40.06667,29.21667
+100,Σινά,Mount Sinai,PLACE,mountain,Q377485,https://www.wikidata.org/wiki/Q377485,315149342,https://viaf.org/viaf/315149342/,TM Geo 8835,https://www.trismegistos.org/place/8835,,,746815,https://pleiades.stoa.org/places/746815,351820,https://www.geonames.org/351820,28.58771,33.921682
+101,Θαβώρ,Mount Tabor,PLACE,mountain,Q193785,https://www.wikidata.org/wiki/Q193785,315150199,https://viaf.org/viaf/315150199/,TM Geo 37136,https://www.trismegistos.org/place/37136,,,678419,https://pleiades.stoa.org/places/678419,293418,https://www.geonames.org/293418,32.6871101,35.3896182
+102,Νέρων,"Nero, Roman Emperor, 54-68",PERSON,emperor,Q1413,https://www.wikidata.org/wiki/Q1413,84036175,https://viaf.org/viaf/84036175/,,,,,,,,,,
+103,Νίκαια,Nicaea,PLACE,city,Q739037,https://www.wikidata.org/wiki/Q739037,131371015,https://viaf.org/viaf/131371015/,TM Geo 11774,https://www.trismegistos.org/place/11774,,,511268,https://pleiades.stoa.org/places/511268,745026,https://www.geonames.org/745026/,40.4290936667,29.7146816667
+104,Νικηφόρος,"Nikephoros I, Byzantine Emperor, 802-811",PERSON,emperor,Q208754,https://www.wikidata.org/wiki/Q208754,89202992,https://viaf.org/viaf/89202992/,,,5252,https://www.degruyter.com/database/PMBZ/entry/PMBZ16435/html,,,,,,
+105,Νικηφόρος,"Nikephoros I, Patriarch of Constantinople,  806-815",PERSON,patriarch,Q116639,https://www.wikidata.org/wiki/Q116639,100905484,https://viaf.org/viaf/100905484/,TM Author 3171,https://www.trismegistos.org/author/3171,5301,https://www.degruyter.com/database/PMBZ/entry/PMBZ16485/html,,,,,,
+106,Παγκράτιος,Pancratios,PERSON,saint,,,,,,,,,,,,,,
+107,καταλαβόντος,Patriarch Methodios from the Monastery of Heliou Bomon/Elegmoi to Constantinople,EVENT,travel,,,,,,,,,,,,,,
+108,Πέτρος,"Peter, Patriarch of Jerusalem, 524-544",PERSON,patriarch,Q3387570,https://www.wikidata.org/wiki/Q3387570,,,,,,,,,,,,
+109,Πόντιος Πιλάτος,"Pontius Pilate, Governor of Judaea, ca. 26-37",PERSON,governor,Q17131,https://www.wikidata.org/wiki/Q17131,172385754,https://viaf.org/viaf/172385754/,,,,,,,,,,
+110,Σάβας,Sabas,PERSON,saint,Q316440,https://www.wikidata.org/wiki/Q316440,22543877,https://viaf.org/viaf/22543877/,,,,,,,,,,
+111,ἀποσταλεὶς,Sabas from Jerusalem to Constantinople,EVENT,travel,,,,,,,,,,,,,,
+112,Σαμουήλ,Samuel,PERSON,biblical man,Q6577515,https://www.wikidata.org/wiki/Q6577515,23387518,https://viaf.org/viaf/23387518/,,,,,,,,,,
+113,Σελεύκεια,Seleucia Trachea,PLACE,city,Q650630,https://www.wikidata.org/wiki/Q650630,144098606,https://viaf.org/viaf/144098606/,TM Geo 16507,https://www.trismegistos.org/place/16507,,,648771,https://pleiades.stoa.org/places/648771,300808,https://www.geonames.org/300808,36.381214,33.924129
+114,Σικελία,Sicily,PLACE,island,Q4951156,https://www.wikidata.org/wiki/Q4951156,149921888 ,https://viaf.org/viaf/149921888/,TM Geo 2132,https://www.trismegistos.org/place/2132,,,462492,https://pleiades.stoa.org/places/462492,2523118,http://sws.geonames.org/2523118,37.6240972305,13.9891627965
+115,Στέφανος,Stephanos,PERSON,asekretis,,,,,,,7069,https://www.degruyter.com/database/PMBZ/entry/PMBZ18293/html,,,,,,
+116,Ταράσιος,"Tarasios, Patriarch of Constantinople,  784-806",PERSON,patriarch,Q1255067,https://www.wikidata.org/wiki/Q1255067,264242549,https://viaf.org/viaf/264242549/,,,7235,https://www.degruyter.com/database/PMBZ/entry/PMBZ18463/html,,,,,,
+117,Θεοδώρα,"Theodora, Byzantine Empress, 842-856",PERSON,empress,Q230001,https://www.wikidata.org/wiki/Q230001,298413267,https://viaf.org/viaf/298413267/,,,7286,https://www.degruyter.com/database/PMBZ/entry/PMBZ18519/html,,,,,,
+118,Θεόδωρος,Theodore Graptos,PERSON,saint,Q40323509,https://www.wikidata.org/wiki/Q40323509,988145856984622920793,https://viaf.org/viaf/988145856984622920793/,,,7526,https://www.degruyter.com/database/PMBZ/entry/PMBZ18768/html,,,,,,
+119,Θεόδωρος ὁ Στουδίτης,Theodore Stoudites,PERSON,saint,Q361405,https://www.wikidata.org/wiki/Q361405,62875165,https://viaf.org/viaf/62875165/,,,7574,https://www.degruyter.com/database/PMBZ/entry/PMBZ18819/html,,,,,,
+120,ἐπανελθεῖν,Theodore and Theophanes Graptoi from Aphousia island to Constantinople,EVENT,travel,,,,,,,,,,,,,,
+121,ἐξορίστους,Theodore and Theophanes Graptoi from Constantinople to Aphousia island,EVENT,travel,,,,,,,,,,,,,,
+122,Θεοδόσιος,"Theodosius I, Roman Emperor, 379-395",PERSON,emperor,Q46696,https://www.wikidata.org/wiki/Q46696,31978444,https://viaf.org/viaf/31978444/,TM Author 3777,https://www.trismegistos.org/author/3777,,,,,,,,
+123,Θεόδοτος,"Theodotos I, Patriarch of Constantinople, 815-821",PERSON,patriarch,Q1271235,https://www.wikidata.org/wiki/Q1271235,,,,,7954,https://www.degruyter.com/database/PMBZ/entry/PMBZ19206/html,,,,,,
+124,Θεοφάνης,Theophanes Graptos,PERSON,saint,Q7782265,https://www.wikidata.org/wiki/Q7782265,134446586,https://viaf.org/viaf/134446586/,,,8093,https://www.degruyter.com/database/PMBZ/entry/PMBZ19350/html,,,,,,
+125,κεχειροτόνηκεν,Theophanes Graptos from Constantinople to Nicaea,EVENT,travel,,,,,,,,,,,,,,
+126,καταλαβόντος,Theophanes Graptos from Nicaea to Constantinople,EVENT,travel,,,,,,,,,,,,,,
+127,Θεόφιλος,"Theophilos, Byzantine Emperor, 829-842",PERSON,emperor,Q60199,https://www.wikidata.org/wiki/Q60199,173299075,https://viaf.org/viaf/173299075/,TM Author 3817,https://www.trismegistos.org/author/3817,8167,https://www.degruyter.com/database/PMBZ/entry/PMBZ19429/html,,,,,,
+128,Θωμᾶς,"Thomas I, Patriarch of Jerusalem, 807-821",PERSON,patriarch,Q10383149,https://www.wikidata.org/wiki/Q10383149,,,,,8452,https://www.degruyter.com/database/PMBZ/entry/PMBZ19719/html,,,,,,
+129,Ἰώβ,Job,PERSON,monk,,,,,,,3396,https://www.degruyter.com/database/PMBZ/entry/PMBZ14539/html,,,,,,
+130,ὑπ' ‌ἀγγέλου ‌φερόμενος,7th c. BC,TIME,time,,,,,,,,,,,,,,
+131,οὐ ‌πολὺ ‌τὸ ‌ἐν ‌μέσῳ,839 (ca.),TIME,time,,,,,,,,,,,,,,
+132,κατὰ ‌τὸν ‌Ξανθικὸν ‌μῆνα,878 (ca.),TIME,time,,,,,,,,,,,,,,
+133,μετὰ ‌τὴν ‌τριετίαν,880,TIME,time,,,,,,,,,,,,,,
+134,ἀπέβη,881,TIME,time,,,,,,,,,,,,,,
+135,ἐλθόντες,884,TIME,time,,,,,,,,,,,,,,
+136,περὶ ‌ἀλεκτρυόνων ‌φωνάς,885 (ca.),TIME,time,,,,,,,,,,,,,,
+137,ἡμέραν,886 (ca.),TIME,time,,,,,,,,,,,,,,
+138,μετ' ‌οὐ ‌πολὺ,887 (ca.),TIME,time,,,,,,,,,,,,,,
+139,ἔφοδον,888,TIME,time,,,,,,,,,,,,,,
+140,ἅλωσιν,902,TIME,time,,,,,,,,,,,,,,
+141,χρόνου ‌δέ ‌τινος,902 (ca.),TIME,time,,,,,,,,,,,,,,
+142,ὑδού,903,TIME,time,,,,,,,,,,,,,,
+143,αὐτὴν ‌τὴν ‌ἡμέραν,904,TIME,time,,,,,,,,,,,,,,
+144,Βουλαμβὲς,"Abdallah II, Emir of of Ifriqiya, 902-903",PERSON,emir,Q335545,https://www.wikidata.org/wiki/Q335545,,,,,20031,https://www.degruyter.com/database/PMBZ/entry/PMBZ22184/html,,,,,,
+145,Ἀβραάμ,Abraham,PERSON,biblical man,Q9181,https://www.wikidata.org/wiki/Q9181,89660956,https://viaf.org/viaf/89660956/,,,,,,,,,,
+146,Ἀφρική,Africa,PLACE,region,Q15,https://www.wikidata.org/wiki/Q15,127043766,https://viaf.org/viaf/127043766/,TM Geo 3227,https://www.trismegistos.org/place/3227,,,775,https://pleiades.stoa.org/places/775,6255146,https://www.geonames.org/6255146/africa.html,32.5,7.5
+147,Ἀλεξάνδρεια,Alexandria,PLACE,city,Q87,https://www.wikidata.org/wiki/Q87,129002681,https://viaf.org/viaf/129002681/,TM Geo 100,https://www.trismegistos.org/place/100,,,727070,https://pleiades.stoa.org/places/727070,361058,https://www.geonames.org/361058/alexandria.html,31.201435,29.909773
+148,Ἀμάλφι,Amalfi,PLACE,city,Q80563,https://www.wikidata.org/wiki/Q80563,151254863,https://viaf.org/viaf/151254863/,TM Geo 32275,https://www.trismegistos.org/place/32275,,,432670,https://pleiades.stoa.org/places/432670,6537391,https://www.geonames.org/6537391/amalfi.html,40.63481,14.60414
+149,Ἀνανίας,Ananias of Damascus,PERSON,apostle,Q382898,https://www.wikidata.org/wiki/Q382898,48149106236968491946,https://viaf.org/viaf/48149106236968491946/,,,,,,,,,,
+150,Ἀντιόχεια,Antioch,PLACE,city,Q200441,https://www.wikidata.org/wiki/Q200441,240814297,https://viaf.org/viaf/240814297/,TM Geo 205,https://www.trismegistos.org/place/205,,,658381,https://pleiades.stoa.org/places/658381,323779,https://www.geonames.org/323779/antakya.html,36.2225515,36.183214
+151,Ἄζωτος,"Ashdod, Palestine",PLACE,city,Q171639,https://www.wikidata.org/wiki/Q171639,12148574335324430001,https://viaf.org/viaf/12148574335324430001/,TM Geo 37278,https://www.trismegistos.org/place/37278,,,687838,https://pleiades.stoa.org/places/687838,295629,https://www.geonames.org/295629/ashdod.html,31.756019,34.6576805
+152,Βάρδας,"Bardas Phokas, father of Emperor Nikephoros II Phokas",PERSON,patrikios,,,,,,,20769,https://www.degruyter.com/database/PMBZ/entry/PMBZ22922/html,,,,,,
+153,Βαρσάκιος,"Barsakios, strategos of Sicily",PERSON,strategos,,,,,,,20819,https://www.degruyter.com/database/PMBZ/entry/PMBZ22972/html,,,,,,
+154,ἐπανῆλθεν,Basil from Africa to Reggio Calabria,EVENT,travel,,,,,,,,,,,,,,
+155,αὑχμάλωτος,Basil from Reggio Calabria to Africa,EVENT,travel,,,,,,,,,,,,,,
+156,Βασίλειος,"Basil, citizen of Reggio Calabria",PERSON,citizen of Reggio Calabria,,,,,,,20915,https://www.degruyter.com/database/PMBZ/entry/PMBZ23068/html,,,,,,
+157,Βασίλειος,"Basil, stratelates",PERSON,stratelates,,,,,,,25490,https://www.degruyter.com/database/PMBZ/entry/PMBZ27644/html,,,,,,
+158,Βασιλείδης,Basilides,PERSON,philosopher,Q345277,https://www.wikidata.org/wiki/Q345277,58294269,https://viaf.org/viaf/58294269/,,,,,,,,,,
+159,Βισουνιάνος ,"Bisignano, Calabria",PLACE,city,Q53840,https://www.wikidata.org/wiki/Q53840,126405809,https://viaf.org/viaf/126405809/,,,,,,,2525550,https://www.geonames.org/2525550/bisignano.html,39.50727,16.28106
+160,Βουθρωτόν,Buthroton,PLACE,city,Q188694,https://www.wikidata.org/wiki/Q188694,133798839,https://viaf.org/viaf/133798839/,TM Geo 12133,https://www.trismegistos.org/place/12133,,,530824,https://pleiades.stoa.org/places/530824,363394,https://www.geonames.org/363394/butrint.html,39.74613,20.02121
+161,Καλαβρία,Calabria,PLACE,region,Q1458,https://www.wikidata.org/wiki/Q1458,155870508 ,https://viaf.org/viaf/155870508/,TM Geo 11784,https://www.trismegistos.org/place/11784,,,442518,https://pleiades.stoa.org/places/442518,2525468,https://www.geonames.org/2525468/calabria.html,40.4474699056,17.882970174
+162,συνηντήθη,Chrisionos from Taormina to Erikousa,EVENT,travel,,,,,,,,,,,,,,
+163,Χρυσίονος,"Chrisionos, citizen of Taormina",PERSON,citizen of Taormina,,,,,,,21339,https://www.degruyter.com/database/PMBZ/entry/PMBZ23492/html,,,,,,
+164,Ἄγιος Δημήτριος,"Church of St. Demetrios, Thessaloniki",PLACE,church,Q730019,https://www.wikidata.org/wiki/Q730019,142289848,https://viaf.org/viaf/142289848/,,,,,115782359,https://pleiades.stoa.org/places/115782359,,,40.638822,22.947858
+165,Ἄγιος Γεώργιος,"Church of St. George, Thessaloniki",PLACE,church,,,,,,,,,,,,,40.628342,22.952885
+166,Ἄγιοι Ἀπόστολοι,"Church of Sts. Apostles, Thessaloniki",PLACE,church,,,,,,,,,563800136,https://pleiades.stoa.org/places/563800136,,,40.64279,22.937489
+167,Κωνσταντῖνος,Constantine,PERSON,sick person,,,,,,,23792,https://www.degruyter.com/database/PMBZ/entry/PMBZ25946/html,,,,,,
+168,Κωνσταντῖνος,"Constantine Karamalos, strategos of Taormina",PERSON,strategos,,,,,,,23816,https://www.degruyter.com/database/PMBZ/entry/PMBZ25970/html,,,,,,
+169,Κέρκυρα,Corfu,PLACE,city,Q205832,https://www.wikidata.org/wiki/Q205832,168670613,https://viaf.org/viaf/168670613/,TM Geo 15798,https://www.trismegistos.org/place/15798,,,530834,https://pleiades.stoa.org/places/530834,2463679,https://www.geonames.org/2463679/corfu.html,39.606285,19.91558
+170,Κωνσταντία,Cosenza,PLACE,city,Q13619,https://www.wikidata.org/wiki/Q13619,143054876,https://viaf.org/viaf/143054876/,TM Geo 14505,https://www.trismegistos.org/place/14505,,,452308,https://pleiades.stoa.org/places/452308,6541467,https://www.geonames.org/6541467/cosenza.html,39.295395,16.253611
+171,Κοσμάς,Cosmas,PERSON,saint,Q11841156,https://www.wikidata.org/wiki/Q11841156,62791720,https://viaf.org/viaf/62791720/,,,,,,,,,,
+172,Δαμιανός,Damian,PERSON,saint,Q11841130,https://www.wikidata.org/wiki/Q11841130,60326622,https://viaf.org/viaf/60326622/,,,,,,,,,,
+173,παραγίνεται,Daniel and George from Thessaloniki to Salinas,EVENT,travel,,,,,,,,,,,,,,
+174,Δανιήλ,"Daniel, disciple of Elias the Younger",PERSON,monk,,,,,,,21393,https://www.degruyter.com/database/PMBZ/entry/PMBZ23546/html,,,,,,
+175,Δημήτριος,Demetrios,PERSON,saint,Q310633,https://www.wikidata.org/wiki/Q310633,27865375,https://viaf.org/viaf/27865375/,,,,,,,,,,
+176,καθίσταται,Demetrios from Constantinople to Corfu,EVENT,travel,,,,,,,,,,,,,,
+177,ἀνελθὼν,Demetrios from Reggio Calabria to Constantinople,EVENT,travel,,,,,,,,,,,,,,
+178,Δημήτριος,"Demetrios, bishop of Corfu",PERSON,bishop,,,,,,,21459,https://www.degruyter.com/database/PMBZ/entry/PMBZ23612/html,,,,,,
+179,ἦλθεν,Elia the Younger from Sinai to Alexandria,EVENT,travel,,,,,,,,,,,,,,
+180,Ἠλίας,Elias,PERSON,prophet,Q133507,https://www.wikidata.org/wiki/Q133507,83461902,https://viaf.org/viaf/83461902/,,,,,,,,,,
+181,Ἠλίας ὁ Νέος,Elias the Younger,PERSON,saint,,,,,,,21639,https://www.degruyter.com/database/PMBZ/entry/PMBZ23792/html,,,,,,
+182,ὑποστρέψαι,Elias the Younger and Daniel from Amalfi to Salinas,EVENT,travel,,,,,,,,,,,,,,
+183,ἀναχθέντες,Elias the Younger and Daniel from Corfu to Salinas,EVENT,travel,,,,,,,,,,,,,,
+184,ἀφίκετο,Elias the Younger and Daniel from Patras to Salinas,EVENT,travel,,,,,,,,,,,,,,
+185,ἐπανελθεῖν,Elias the Younger and Daniel from Rome to Salinas,EVENT,travel,,,,,,,,,,,,,,
+186,ἀνέπλευσε,Elias the Younger and Daniel from Salinas to Patras,EVENT,travel,,,,,,,,,,,,,,
+187,ᾤχετο,Elias the Younger and Daniel from Salinas to Rome,EVENT,travel,,,,,,,,,,,,,,
+188,καταλαβεῖν,Elias the Younger and Daniel from Salinas to Taormina,EVENT,travel,,,,,,,,,,,,,,
+189,κατέπλευσαν,Elias the Younger and Daniel from Sparta to Buthroton,EVENT,travel,,,,,,,,,,,,,,
+190,κατέλαβον,Elias the Younger and Daniel from Taormina to Amalfi,EVENT,travel,,,,,,,,,,,,,,
+191,ἀπέπλευσεν,Elias the Younger and Daniel from Taormina to Sparta,EVENT,travel,,,,,,,,,,,,,,
+192,‌ἀπήρξατο,Elias the Younger from Africa to Jerusalem,EVENT,travel,,,,,,,,,,,,,,
+193,καταλαμβάνει,Elias the Younger from Alexandria to Antioch,EVENT,travel,,,,,,,,,,,,,,
+194,εὗρεν,Elias the Younger from Antioch to Palermo,EVENT,travel,,,,,,,,,,,,,,
+195,ἀπάγεται,Elias the Younger from Enna to Africa,EVENT,travel,,,,,,,,,,,,,,
+196,‌καταλαμβάνει,Elias the Younger from Jerusalem to Jordan river,EVENT,travel,,,,,,,,,,,,,,
+197,καταλαμβάνει,Elias the Younger from Palermo to Taormina,EVENT,travel,,,,,,,,,,,,,,
+198,ἐπὶ,Elias the Younger from Tabor to Sinai,EVENT,travel,,,,,,,,,,,,,,
+199,παραγίνεται,Elias the Younger from the Jordan river to the lake of Gennesaret,EVENT,travel,,,,,,,,,,,,,,
+200,‌ἐπὶ,Elias the Younger from the lake of Gennesaret to Tabor,EVENT,travel,,,,,,,,,,,,,,
+201,φθάσαντες,"Elias the Younger, Daniel, Kolumbos, and Kousonios from Epikousa to Nafpaktos",EVENT,travel,,,,,,,,,,,,,,
+202,καταλαμβάνει,"Elias the Younger, Daniel, Kolumbos, and Kousonios from Nafpaktos to Thessaloniki",EVENT,travel,,,,,,,,,,,,,,
+203,ἀπῄει,"Elias the Younger, Daniel, Kolumbos, and Kousonios from Salinas to Epikousa",EVENT,travel,,,,,,,,,,,,,,
+204,Ἠλίας,"Elias III, Patriarch of Jerusalem, 878-907",PERSON,patriarch,Q5360527,https://www.wikidata.org/wiki/Q5360527,,,,,21642,https://www.degruyter.com/database/PMBZ/entry/PMBZ23795/html,,,,,,
+205,Ἐλισαίος,Elisha,PERSON,prophet,Q206238,https://www.wikidata.org/wiki/Q206238,198212449,https://viaf.org/viaf/198212449/,,,,,,,,,,
+206,Ἑλλάς,Hellas,PLACE,region,Q190600,https://www.wikidata.org/wiki/Q190600,254924271,https://viaf.org/viaf/254924271/,TM Geo 762,https://www.trismegistos.org/place/762,,,1001896,https://pleiades.stoa.org/places/1001896,6697800,https://www.geonames.org/6697800/central-greece.html,38.35243,23.13995
+207,Ἔννα,"Enna, Sicily",PLACE,city,Q60181681,https://www.wikidata.org/wiki/Q60181681,316414854,https://viaf.org/viaf/316414854/,TM Geo 22265,https://www.trismegistos.org/place/22265,,,462236,https://pleiades.stoa.org/places/462236,6541871,https://www.geonames.org/6541871/enna.html,37.55885,14.28917
+208,Ἐπαμεινώνδας,"Epaminondas, general of Thebes, 4th c. BC",PERSON,general,Q190436,https://www.wikidata.org/wiki/Q190436,,,,,,,,,,,,
+209,Ἤπειρος,Epirus,PLACE,region,Q565751,https://www.wikidata.org/wiki/Q565751,240820174,https://viaf.org/viaf/240820174/,TM Geo 655,https://www.trismegistos.org/place/655,,,530871,https://pleiades.stoa.org/places/530871,6697804,https://www.geonames.org/6697804/epirus.html,39.23651,20.71472
+210,Παλαιὰ Ἤπειρος,Epirus Vetus,PLACE,region,Q3179417,https://www.wikidata.org/wiki/Q3179417,,,TM Geo 42190,https://www.trismegistos.org/place/42190,,,991364,https://pleiades.stoa.org/places/991364,,,39.0157,20.7360035
+211,Ἐρεικούσσα,Erikoussa,PLACE,island,Q1021781,https://www.wikidata.org/wiki/Q1021781,,,,,,,,,2463733,https://www.geonames.org/2463733/ereikoussa.html,39.88333,19.59039
+212,Γιεζί,"Gehazi, servant of Elisha",PERSON,servant of Elisha,Q977435,https://www.wikidata.org/wiki/Q977435,151151246596744132311,https://viaf.org/viaf/151151246596744132311/,,,,,,,,,,
+213,Γεώργιος,George,PERSON,imperial delegate,,,,,,,22126,https://www.degruyter.com/database/PMBZ/entry/PMBZ24279/html,,,,,,
+214,Ἀγία Κυριακή,"Gerace, Calabria",PLACE,city,Q54612,https://www.wikidata.org/wiki/Q54612,241851404,https://viaf.org/viaf/241851404/,,,,,,,2524643,https://www.geonames.org/2524643/gerace.html,38.27137,16.2207
+215,Άββακούμ,Habacuc,PERSON,prophet,Q135106,https://www.wikidata.org/wiki/Q135106,9739544,https://viaf.org/viaf/9739544/,,,,,,,,,,
+216,‌μετεωροπορῶν,Habacuc from Jerusalem to Babylon,EVENT,travel,,,,,,,,,,,,,,
+217,Ἑλλήσποντος,Hellespont,PLACE,strait,Q6514,https://www.wikidata.org/wiki/Q6514,243410280,https://viaf.org/viaf/243410280/,TM Geo 3621,https://www.trismegistos.org/place/3621,,,501434,https://pleiades.stoa.org/places/501434,749779,https://www.geonames.org/749779/dardanelles.html,40.21407,26.4584
+218,Βραχίμος,"Ibrahim II, Emir of of Ifriqiya, 875-902",PERSON,emir,Q336991,https://www.wikidata.org/wiki/Q336991,169965357,https://viaf.org/viaf/169965357/,,,22708,https://www.degruyter.com/database/PMBZ/entry/PMBZ24861/html,,,,,,
+219,Ἰλλυρίς,Illyricum,PLACE,region,Q753824,https://www.wikidata.org/wiki/Q753824,152069713,https://viaf.org/viaf/152069713/,TM Geo 900,https://www.trismegistos.org/place/900,,,481865,https://pleiades.stoa.org/places/481865,8410800,https://www.geonames.org/8410800/illyricum.html,41.2540645139,19.8584085756
+220,Ἰωάννης,"Ioannes, anargyros",PERSON,saint,Q16939074,https://www.wikidata.org/wiki/Q16939074,,,,,,,,,,,,
+221,Ἰωνᾶς,"Ionas, father of the monk Daniel",PERSON,father of Daniel,,,,,,,23505,https://www.degruyter.com/database/PMBZ/entry/PMBZ25659/html,,,,,,
+222,Ἰόνιον ‌πέλαγος,Ionian See,PLACE,see,Q37495,https://www.wikidata.org/wiki/Q37495,238399187,https://viaf.org/viaf/238399187/,TM Geo 33370,https://www.trismegistos.org/place/33370,,,1046,https://pleiades.stoa.org/places/1046,2463713,https://www.geonames.org/2463713/ionian-sea.html,38.5153591611,15.9369765873
+223,Ἰταλία,Italy,PLACE,country,Q38,https://www.wikidata.org/wiki/Q38,152361066,https://viaf.org/viaf/152361066/,TM Geo 932,https://www.trismegistos.org/place/932,,,1052,https://pleiades.stoa.org/places/1052,3175395,https://www.geonames.org/3175395/italian-republic.html,42.83333,12.83333
+224,Ἰακώβ,Jacob,PERSON,biblical man,Q289957,https://www.wikidata.org/wiki/Q289957,202148389276110710871,https://viaf.org/viaf/202148389276110710871/,,,,,,,,,,
+225,Ἰωνᾶς,Jonah,PERSON,prophet,Q2468262,https://www.wikidata.org/wiki/Q2468262,2147905176379092423,https://viaf.org/viaf/2147905176379092423/,,,,,,,,,,
+226,Ἰορδάνης,Jordan River,PLACE,river,Q40059,https://www.wikidata.org/wiki/Q40059,82144647638107715569,https://viaf.org/viaf/82144647638107715569/,TM Geo 13839,https://www.trismegistos.org/place/13839,,,687932,https://pleiades.stoa.org/places/687932,294624,https://www.geonames.org/294624/jordan-river.html,32.3575815565,35.5643662887
+227,Ἰωσήφ,"Joseph, son of Jacob",PERSON,biblical man,Q145746,https://www.wikidata.org/wiki/Q145746,54941695,https://viaf.org/viaf/54941695/,,,,,,,,,,
+228,Κολοῦμβος,Koloumbos,PERSON,prisoner,,,,,,,23725,https://www.degruyter.com/database/PMBZ/entry/PMBZ25879/html,,,,,,
+229,Κουσώνιος,Kousonios,PERSON,imperial delegate,,,,,,,24219,https://www.degruyter.com/database/PMBZ/entry/PMBZ26373/html,,,,,,
+230,ἐπέστη,Kousonios from Constantinople to Salinas,EVENT,travel,,,,,,,,,,,,,,
+231,Κῦρος,Kyros,PERSON,saint,Q16188667,https://www.wikidata.org/wiki/Q16188667,143826273,https://viaf.org/viaf/143826273/,,,,,,,,,,
+232,Λακωνική,Laconia,PLACE,region,Q11931074,https://www.wikidata.org/wiki/Q11931074,,,TM Geo 1213,https://www.trismegistos.org/place/1213,,,570406,https://pleiades.stoa.org/places/570406,,,37.0457272851,22.6603511657
+233,Γεννησαρὲτ,Lake of Gennesaret,PLACE,lake,Q126982,https://www.wikidata.org/wiki/Q126982,,,TM Geo 42653,https://www.trismegistos.org/place/42653,,,678430,https://pleiades.stoa.org/places/678430,294459,https://www.geonames.org/294459/lake-tiberias.html,32.8138046,35.590564
+234,Λέων,"Leon VI, Byzantine Emperor, 886-912",PERSON,emperor,Q41618,https://www.wikidata.org/wiki/Q41618,9873664,https://viaf.org/viaf/9873664/,TM Author 2812,https://www.trismegistos.org/author/2812,24311,https://www.degruyter.com/database/PMBZ/entry/PMBZ26465/html,,,,,,
+235,Μαλαχίας,Malachias,PERSON,presbyter,,,,,,,24839,https://www.degruyter.com/database/PMBZ/entry/PMBZ26993/html,,,,,,
+236,Μάρκος,Mark,PERSON,apostle,Q31966,https://www.wikidata.org/wiki/Q31966,264405984,https://viaf.org/viaf/264405984/,,,,,,,,,,
+237,Μηνάς,Menas,PERSON,saint,Q163432,https://www.wikidata.org/wiki/Q163432,67894182,https://viaf.org/viaf/67894182/,,,,,,,,,,
+238,Μεσοβίαν,"Mesiano, Calabria",PLACE,city,,,,,,,,,,,,,38.61508,16.0314
+239,Μιχαὴλ,"Michael Charaktos, strategos of Calabria",PERSON,strategos,,,,,,,25161,https://www.degruyter.com/database/PMBZ/entry/PMBZ27315/html,,,,,,
+240,Σαλίναι,"Monastery of St. Elias the Younger, Salinas/Seminara, Calabria",PLACE,monastery,,,,,,,,,,,,,38.348373,15.906186
+241,Ὄλυμπος,"Mount Olympos, Greece",PLACE,mountain,Q80344,https://www.wikidata.org/wiki/Q80344,316736127,https://viaf.org/viaf/316736127/,TM Geo 11327,https://www.trismegistos.org/place/11327,,,491677,https://pleiades.stoa.org/places/491677,734890,https://www.geonames.org/734890/mount-olympus.html,40.085556,22.358611
+242,Ναύπακτος,Nafpaktos,PLACE,city,Q782278,https://www.wikidata.org/wiki/Q782278,8425162906496978110003,https://viaf.org/viaf/149142033/,TM Geo 3523,https://www.trismegistos.org/place/3523,,,540960,https://pleiades.stoa.org/places/540960,256639,https://www.geonames.org/256639/nafpaktos.html,38.39167,21.8275
+243,Νάσαρ,"Nasar, stratelates",PERSON,stratelates,,,,,,,25490,https://www.degruyter.com/database/PMBZ/entry/PMBZ27644/html,,,,,,
+244,Παχώμιος,"Pachomios, Bishop of Corfu",PERSON,bishop,,,,,,,26215,https://www.degruyter.com/database/PMBZ/entry/PMBZ28369/html,,,,,,
+245,Πάνορμος,Palermo,PLACE,city,Q2656,https://www.wikidata.org/wiki/Q2656,126655748,https://viaf.org/viaf/126655748/,TM Geo 22276,https://www.trismegistos.org/place/22276,,,462410,https://pleiades.stoa.org/places/462410,6542127,https://www.geonames.org/6542127/palermo.html,38.11572,13.36143
+246,Παλαιστίνη,Palestine,PLACE,region,Q23792,https://www.wikidata.org/wiki/Q23792,138926424 ,https://viaf.org/viaf/138926424/,TM Geo 1568,https://www.trismegistos.org/place/1568,,,687995,https://pleiades.stoa.org/places/687995,12047392,https://www.geonames.org/12047392/palestine.html,31.65393,35.10352
+247,Παντελεήμονος,Panteleimon,PERSON,saint,Q378656,https://www.wikidata.org/wiki/Q378656,5727171,https://viaf.org/viaf/5727171/,,,,,,,,,,
+248,Παντολέων,"Pantoleon, Bishop in Africa",PERSON,bishop,,,,,,,5704,https://www.degruyter.com/database/PMBZ/entry/PMBZ16893/html,,,,,,
+249,Πάτραι,Patras,PLACE,city,Q133123,https://www.wikidata.org/wiki/Q133123,129029351,https://viaf.org/viaf/129029351/,TM Geo 1631,https://www.trismegistos.org/place/1631,,,570567,https://pleiades.stoa.org/places/570567,255683,https://www.geonames.org/255683/patra.html,38.24444,21.73444
+250,Πήγασος,"Pegasus, mythological winged horse",PERSON,mythological winged horse,Q162797,https://www.wikidata.org/wiki/Q162797,49155042667672401407,https://viaf.org/viaf/49155042667672401407/,,,,,,,,,,
+251,Πελοπόννασος,Peloponnese,PLACE,region,Q78967,https://www.wikidata.org/wiki/Q78967,234133404,https://viaf.org/viaf/234133404/,TM Geo 1659,https://www.trismegistos.org/place/1659,,,570577,https://pleiades.stoa.org/places/570577,9062330,https://www.geonames.org/9062330/peloponnese.html,37.62334,22.41777
+252,Πενταδάκτυλο,"Pentedattilo, Calabria",PLACE,city,Q2407749,https://www.wikidata.org/wiki/Q2407749,,,,,,,,,2523840,https://www.geonames.org/2523840/pentidattilo.html,37.9516,15.76083
+253,Περσίς,Persia,PLACE,country,Q794,https://www.wikidata.org/wiki/Q794,149669363,https://viaf.org/viaf/149669363/,TM Geo 1704,https://www.trismegistos.org/place/1704,,,922698,https://pleiades.stoa.org/places/922698,130758,https://www.geonames.org/130758/islamic-republic-of-iran.html,30.1033729435,52.491334576
+254,Φίλιππος,Philip,PERSON,apostle,Q43675,https://www.wikidata.org/wiki/Q43675,25404645,https://viaf.org/viaf/25404645/,,,,,,,,,,
+255,Ῥήγιο,Reggio Calabria,PLACE,city,Q8471,https://www.wikidata.org/wiki/Q8471,144248442,https://viaf.org/viaf/144248442/,TM Geo 2048,https://www.trismegistos.org/place/2048,,,452416,https://pleiades.stoa.org/places/452416,2523630,https://www.geonames.org/2523630/reggio-calabria.html,38.109279,15.64393
+256,Ῥουσιάνος,Rossano,PLACE,city,Q30029607,https://www.wikidata.org/wiki/Q30029607,252843356,https://viaf.org/viaf/252843356/,TM Geo 3366,https://www.trismegistos.org/place/3366,,,452421,https://pleiades.stoa.org/places/452421,2523578,https://www.geonames.org/2523578/rossano.html,39.57622,16.63447
+257,Σάβας,"Sabas, disciple of Elias the Younger",PERSON,monk,,,,,,,26925,https://www.degruyter.com/database/PMBZ/entry/PMBZ29079/html,,,,,,
+258,Σαμψών,Samson,PERSON,biblical man,Q214648,https://www.wikidata.org/wiki/Q214648,156690359,https://viaf.org/viaf/156690359/,,,,,,,,,,
+259,Ἀγία ‌Χριστίνα,"Santa Cristina, Calabria",PLACE,city,Q54662,https://www.wikidata.org/wiki/Q54662,248730396,https://viaf.org/viaf/248730396/,,,,,,,2523365,https://www.geonames.org/2523365/santa-cristina-d-aspromonte.html,38.2548,15.96996
+260,Ἀγία ‌Μαρία,"Santa Maria, Sicily",PLACE,city,Q3949197,https://www.wikidata.org/wiki/Q3949197,,,,,,,,,9036389,https://www.geonames.org/9036389/santa-maria-la-stella.html,37.62349,15.12071
+261,Σκύλλαιον,"Scilla, Calabria",PLACE,city,Q54666,https://www.wikidata.org/wiki/Q54666,139622209,https://viaf.org/viaf/139622209/,TM Geo 61083,https://www.trismegistos.org/place/61083,,,452436,https://pleiades.stoa.org/places/452436,2523187,https://www.geonames.org/2523187/scilla.html,38.25201,15.71837
+262,Σκηπίων,"Scipio Africanus, Roman general, 3th-2th c. BC",PERSON,general,Q2253,https://www.wikidata.org/wiki/Q2253,316749695,https://viaf.org/viaf/316749695/,,,,,,,,,,
+263,Σῆκρος,"Secro River, Calabria",PLACE,river,,,,,,,,,,,,,,
+264,Σπάρτα,Sparta,PLACE,city,Q5690,https://www.wikidata.org/wiki/Q5690,252090229,https://viaf.org/viaf/252090229/,TM Geo 2181,https://www.trismegistos.org/place/2181,,,570685,https://pleiades.stoa.org/places/570685,253394,https://www.geonames.org/253394/sparta.html,37.07446,22.43009
+265,Στέφανος,"Stephen V, Pope, 885-891",PERSON,pope,Q245030,https://www.wikidata.org/wiki/Q245030,89637377,https://viaf.org/viaf/89637377/,,,,,,,,,,
+266,Συράκουσαι,Syracuse,PLACE,city,Q13670,https://www.wikidata.org/wiki/Q13670,131280663,https://viaf.org/viaf/131280663/,TM Geo 2210,https://www.trismegistos.org/place/2210,,,462503,https://pleiades.stoa.org/places/462503,6542286,https://www.geonames.org/6542286/siracusa.html,37.08515,15.273
+267,Συρία,Syria,PLACE,country,Q858,https://www.wikidata.org/wiki/Q858,154701530,https://viaf.org/viaf/154701530/,TM Geo 2211,https://www.trismegistos.org/place/2211,,,1306,https://pleiades.stoa.org/places/1306,666821,https://www.geonames.org/666821/siria.html,46.26667,21.63333
+268,Ταυρομένιον,Taormina,PLACE,city,Q199952,https://www.wikidata.org/wiki/Q199952,139547239,https://viaf.org/viaf/139547239/,TM Geo 22322,https://www.trismegistos.org/place/22322,,,462506,https://pleiades.stoa.org/places/462506,2522975,https://www.geonames.org/2522975/taormina.html,37.85358,15.28851
+269,Ταυρανία,"Tauriana, Calabria",PLACE,city,Q1239561,https://www.wikidata.org/wiki/Q1239561,,,TM Geo 33092,https://www.trismegistos.org/place/33092,,,452466,https://pleiades.stoa.org/places/452466,,,38.394393,15.871422
+270,Θεσπρωτία,Thesprotia,PLACE,region,Q207552,https://www.wikidata.org/wiki/Q207552,,,TM Geo 15796,https://www.trismegistos.org/place/15796,,,531117,https://pleiades.stoa.org/places/531117,252941,https://www.geonames.org/252941/nomos-thesprotias.html,39.4579354528,20.5564965576
+271,Θεσσαλονίκη,Thessaloniki,PLACE,city,Q17151,https://www.wikidata.org/wiki/Q17151,312797568,https://viaf.org/viaf/312797568/,TM Geo 2394,https://www.trismegistos.org/place/2394,,,491741,https://pleiades.stoa.org/places/491741,734077,https://www.geonames.org/734077/thessaloniki.html,40.628342,22.952885
+272,Θεσσαλία,Thessaly,PLACE,region,Q166919,https://www.wikidata.org/wiki/Q166919,,,TM Geo 2393,https://www.trismegistos.org/place/2393,,,1332,https://pleiades.stoa.org/places/1332,6697809,https://www.geonames.org/6697809/thessaly.html,39.40224,21.98364
+273,Τυρσηνικὸν πέλαγος,Tyrrhenian Sea,PLACE,see,Q38882,https://www.wikidata.org/wiki/Q38882,237248818,https://viaf.org/viaf/237248818/,TM Geo 43250,https://www.trismegistos.org/place/43250,,,1356,https://pleiades.stoa.org/places/1356,2522836,https://www.geonames.org/2522836/tyrrhenian-sea.html,,
+274,κατὰ τὴν δευτέραν αὐτοῦ ἡλικίαν,675 (ca.),TIME,time,,,,,,,,,,,,,,
+275,διαδέξασθαι,685,TIME,time,,,,,,,,,,,,,,
+276,ἑτοιμασθέντι,711,TIME,time,,,,,,,,,,,,,,
+277,ὥστε,730 (ca.),TIME,time,,,,,,,,,,,,,,
+278,ὑνδικτιῶνος ὀγδόης,740,TIME,time,,,,,,,,,,,,,,
+279,Ἀνδρέας,Andrew of Crete,PERSON,bishop,Q372688,https://www.wikidata.org/wiki/Q372688,10044124,https://viaf.org/viaf/10044124/,TM Author 1544,https://www.trismegistos.org/author/1544,362,https://www.degruyter.com/database/PMBZ/entry/PMBZ11446/html,,,,,,
+280,ἀποκαθίσταται,Andrew of Crete from Constantinople to Crete ,EVENT,travel,,,,,,,,,,,,,,
+281,ἀπέλυσεν,Andrew of Crete from Constantinople to Mythilene,EVENT,travel,,,,,,,,,,,,,,
+282,ἀνελθεῖν,Andrew of Crete from Crete to Constantinople,EVENT,travel,,,,,,,,,,,,,,
+283,προσάγεται,Andrew of Crete from Damascus to Jerusalem,EVENT,travel,,,,,,,,,,,,,,
+284,ἀνέπεμψαν,Andrew of Crete from Jerusalem to Constantinople,EVENT,travel,,,,,,,,,,,,,,
+285,Βλαχέρναι,"Church of Blachernae, Crete",PLACE,church,,,,,,,,,,,,,,
+286,Ἀγία Ἀναστασία,"Church of St. Anastasia, Constantinople",PLACE,church,,,,,,,,,,,745044,https://www.geonames.org/745044/istanbul.html,41.01384,28.94966
+287,Κωνσταντῖνος,"Constantine IV, Byzantine Emperor, 668-685",PERSON,emperor,Q41605,https://www.wikidata.org/wiki/Q41605,268207923,https://viaf.org/viaf/268207923/,,,3702,https://www.degruyter.com/database/PMBZ/entry/PMBZ14851/html,,,,,,
+288,Κρήτη,Crete,PLACE,island,Q34374,https://www.wikidata.org/wiki/Q34374,237254468,https://viaf.org/viaf/237254468/,TM Geo 527,https://www.trismegistos.org/place/527,,,589748,https://pleiades.stoa.org/places/589748,258763,https://www.geonames.org/258763/crete.html,35.34194,25.14238
+289,Δαμασκός,Damascus,PLACE,city,Q3766,https://www.wikidata.org/wiki/Q3766,146573830,https://viaf.org/viaf/146573830/,TM Geo 533,https://www.trismegistos.org/place/533,,,678106,https://pleiades.stoa.org/places/678106,170654,https://www.geonames.org/170654/damascus.html,33.5102,36.29128
+290,Διακονία τῶν Εὐγενίου,"Diakonia ton Eugeniou, Constantinople",PLACE,diakonia,,,,,,,,,,,745044,https://www.geonames.org/745044/istanbul.html,41.01384,28.94966
+291,Τοῦ Δριμέως,"Drimis, Crete",PLACE,city,,,,,,,,,,,,,,
+292,Γεώργιος,"George, father of Andrew of Crete",PERSON,father of Andrew of Crete,,,,,,,2069,https://www.degruyter.com/database/PMBZ/entry/PMBZ13179/html,,,,,,
+293,Γρηγορία,"Gregoria, mother of Andrew of Crete",PERSON,mother of Andrew of Crete,,,,,,,2343,https://www.degruyter.com/database/PMBZ/entry/PMBZ13457/html,,,,,,
+294,Ἐριχώ,Jericho,PLACE,city,Q5687,https://www.wikidata.org/wiki/Q5687,,,TM Geo 660,https://www.trismegistos.org/place/660,,,687917,https://pleiades.stoa.org/places/687917,284899,https://www.geonames.org/284899/jericho.html,31.8700465,35.443876
+295,Ἰωάννης ὁ Βαπτιστής,John the Baptist,PERSON,saint,Q40662,https://www.wikidata.org/wiki/Q40662,27863229,https://viaf.org/viaf/27863229/,,,,,,,,,,
+296,Ἰουστινιανός,"Justinian II, Byzantine Emperor, 685-695; 705-711",PERSON,emperor,Q42021,https://www.wikidata.org/wiki/Q42021,100262830,https://viaf.org/viaf/100262830/,,,3556,https://www.degruyter.com/database/PMBZ/entry/PMBZ14702/html,,,,,,
+297,Μυτιλήνη,Mytilene,PLACE,city,Q189059,https://www.wikidata.org/wiki/Q189059,244569541,https://viaf.org/viaf/244569541/,TM Geo 1409,https://www.trismegistos.org/place/1409,,,550763,https://pleiades.stoa.org/places/550763,256866,https://www.geonames.org/256866/mytilene.html,39.10772,26.55529
+298,Νικήτας,Nicetas,PERSON,patrikios,,,,,,,5523,https://www.degruyter.com/database/PMBZ/entry/PMBZ16707/html,,,,,,
+299,Θεόδωρος,"Theodore, topoteretes of the Patriarch of Jerusalem",PERSON,topoteretes,,,,,,,7316,https://www.degruyter.com/database/PMBZ/entry/PMBZ18549/html,,,,,,
+300,ἑβδόμῳ ἔτει,724,TIME,time,,,,,,,,,,,,,,
+301,Καισάρεια,"Caesarea, Palestine",PLACE,city,Q319242,https://www.wikidata.org/wiki/Q319242,172493628,https://viaf.org/viaf/172493628/,TM Geo 958,https://www.trismegistos.org/place/958,,,678401,https://pleiades.stoa.org/places/678401,294716,https://www.geonames.org/294716/horbat-qesari.html,32.50082,34.89228
+302,Ἄγιος Στέφανος,"Church of St. Stephen, Jerusalem",PLACE,church,Q1431922,https://www.wikidata.org/wiki/Q1431922,160929133,https://viaf.org/viaf/160929133/,,,,,,,,,31.47584,35.134808
+303,Γεώργιος,"George, one of the Sixty Martyrs",PERSON,martyr,,,,,,,2109,https://www.degruyter.com/database/PMBZ/entry/PMBZ13219/html,,,,,,
+304,ἀνῆλθεν,John from Cesarea to Jerusalem,EVENT,travel,,,,,,,,,,,,,,
+305,Ἰωάννης,"John, Passion of the Sixty Martyrs' translator",PERSON,monk,,,,,,,3147,https://www.degruyter.com/database/PMBZ/entry/PMBZ14285/html,,,,,,
+306,Ἰωάννης,"John, citizen of Cesarea",PERSON,citizen of Cesarea,,,,,,,2967,https://www.degruyter.com/database/PMBZ/entry/PMBZ14098/html,,,,,,
+307,Ἰωάννης,"John, one of the Sixty Martyrs",PERSON,martyr,,,,,,,2965,https://www.degruyter.com/database/PMBZ/entry/PMBZ14096/html,,,,,,
+308,Ἰουλιανός,"Julian, one of the Sixty Martyrs",PERSON,martyr,,,,,,,3537,https://www.degruyter.com/database/PMBZ/entry/PMBZ14683/html,,,,,,
+309,Λέων,"Leo III, Byzantine Emperor, 717-741",PERSON,emperor,Q31755,https://www.wikidata.org/wiki/Q31755,285128475,https://viaf.org/viaf/285128475/,,,4242,https://www.degruyter.com/database/PMBZ/entry/PMBZ15400/html,,,,,,
+310,Κολωνεία,"Qalunya, Palestine",PLACE,city,Q2898847,https://www.wikidata.org/wiki/Q2898847,,,,,,,,,293893,https://www.geonames.org/293893/qaluniya.html,31.80,35.16667
+311,ἑξήκοντα νέοι μάρτυρες,Sixty Martyrs of Jerusalem,PERSON,martyrs,,,,,,,,,,,,,,
+312,ἑβδομήκοντα,Sixty Martyrs/Seventy Pilgrims,PERSON,martyrs/pilgrims,,,,,,,10231,https://www.degruyter.com/database/PMBZ/entry/PMBZ20192/html,,,,,,
+313,ἀπηνέχθησαν,Sixty Martyrs/Seventy Pilgrims from Cesarea to Jerusalem,EVENT,travel,,,,,,,,,,,,,,
+314,ἔφθασαν,Sixty Martyrs/Seventy Pilgrims from Constantinople to Jerusalem,EVENT,travel,,,,,,,,,,,,,,
+315,ἐγένοντο,Sixty Martyrs/Seventy Pilgrims from Jerusalem to Qalunya,EVENT,travel,,,,,,,,,,,,,,
+316,καταλαβόντων,Sixty Martyrs/Seventy Pilgrims from Jerusalem to Cesarea,EVENT,travel,,,,,,,,,,,,,,
+317,ἐπιστρέψαντες,Sixty Martyrs/Seventy Pilgrims from Qalunya to Jerusalem,EVENT,travel,,,,,,,,,,,,,,
+318,Σολομὼν ὁ τοῦ Ἀνακτοδούλου,"Sulaymān ibn ʿAbd al-Malik, caliph, 715–717",PERSON,caliph,Q284233,https://www.wikidata.org/wiki/Q284233,97021516,https://viaf.org/viaf/97021516/,,,7159,https://www.degruyter.com/database/PMBZ/entry/PMBZ18385/html,,,,,,
